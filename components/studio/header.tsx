@@ -15,7 +15,7 @@ export function Header() {
         
         <nav className="flex items-center gap-4">
           <Link 
-            href="https://github.com/Prannsss?utm_source=chatgpt.com" 
+            href="https://github.com/Prannsss/MyQR" 
             target="_blank" 
             rel="noreferrer"
             className={buttonVariants({ variant: "outline", size: "sm", className: "rounded-full border-black/10 hover:border-black/20 bg-black/5 hover:bg-black/10" })}
