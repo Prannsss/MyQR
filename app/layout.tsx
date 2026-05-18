@@ -8,7 +8,7 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 const inter = Inter({ subsets: ['latin'], variable: '--font-sans' });
 
 export const metadata: Metadata = {
-  title: 'MyQR - Advanced QR Generator',
+  title: 'MyQR - QR Code Generator',
   description: 'Create, customize, preview, and download highly personalized QR codes for virtually anything. Free and Open Source.',
 };
 
